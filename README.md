@@ -28,6 +28,9 @@ To stay below the radar of modern heuristic engines, `NoImport` avoids standard 
 * **Register-Efficient Logic:** String comparisons and memory walks are optimized for low-level, register-heavy execution to mimic legitimate system-level code.
 
 ---
+⚠️ Disclaimer
+
+This repository is strictly for educational and security research purposes. The techniques demonstrated herein are intended to provide insights into Windows internals and the mechanics of stealth software development. The author is not responsible for any misuse.
 
 ## Usage
 
